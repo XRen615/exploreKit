@@ -1,2 +1,2 @@
 # exploreKit
-Repo for various tools under dev.
+Repo for daily use script draft.
